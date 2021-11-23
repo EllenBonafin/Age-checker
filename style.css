@@ -1,0 +1,56 @@
+body {
+    background: rgb(70, 130, 180);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font: normal 20pt arial;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 10px; /** espaço**/
+    width: 500px;
+    margin: auto; 
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.199) ;
+}
+
+ 
+div {
+    text-align: center;
+    padding: 1px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#img{ 
+    width: 350px;  
+    height: 350px;
+    border-radius: 50%;
+    padding-top: 10px;
+    }
+
+#button{
+    font-size:15px;
+    font-family:Arial;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:#666666;
+    border-color:#dcdcdc;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 1px 0px 0px #ffffff;
+    text-shadow:inset 0px 1px 0px #ffffff;
+    background:linear-gradient(#ffffff, #f6f6f6);
+}
